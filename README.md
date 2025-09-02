@@ -2,13 +2,13 @@
 ## Repository of my Tabletop RPG Maps that I've made for running various homebrew campaigns and prewritten adventures. Organized by adventure and/or setting/system.
 
 ### Avatar the Last Airbender
-#### Maps I made for running an Avatar RPG one shot.
+#### Maps I made for an Avatar RPG one shot.
 
 ### Cairn of the Winter King
 #### Maps I made for running the "Cairn of the Winter King" D&D adventure.
 
 ### Last Orders at the Yawning Portal
-#### Maps I made for running the "Last Orders at the Yawning Portal" DnD adventure.
+#### Maps I made for running the "Last Orders at the Yawning Portal" D&D adventure.
 
 ### Stonewalkers
 #### Maps I made for running the "Stonewalkers" Cosmere RPG adventure.
