@@ -1,5 +1,7 @@
 # Maps for the Stonewalkers Cosmere RPG Adventure
-## A set of maps I've made while running the Stonewalkers campaign, specifically I made maps for all the encounters that could result in combat but which did not have maps in the book (I've also included a few different book easter eggs in these, like the Santhid under the water in the Everstorm map, etc. One of these is a sleepless horde in one of the maps if you can spot it.). All maps have both a grid and non grid version, and I've organized them by chapter below.
+## A set of maps I've made while running the Stonewalkers campaign, specifically I made maps for all the encounters that could result in combat but which did not have maps in the book (I've also included a few different book easter eggs in these, like the Santhid under the water in the Everstorm map, etc. One of these is a sleepless horde in one of the maps if you can spot it.). 
+
+## All maps were made in Inkarnate and all maps have both a grid and non grid version. I've organized them by chapter below.
 
 ## Chapter 2
 
