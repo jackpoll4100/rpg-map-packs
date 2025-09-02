@@ -1,5 +1,5 @@
 # Avatar the Last Airbender RPG Maps
-## Maps made for an Avatar rpg one shot I ran. All maps made with Inkarnate.
+## Maps made for an Avatar rpg one shot I ran. All maps made with [Inkarnate](https://inkarnate.com/) .
 
 ### Wei Shen Village
 #### A village that has been plagued by spirit attacks. This is due to overfarming and taking more of the natural lands than they should, which is in turn caused by pressure be exacted on them by Daofei bandits to pay protection and give them large amounts of crops in exchange for their lives. The town well also contains a rift that few know about which connects to the spirit world.
