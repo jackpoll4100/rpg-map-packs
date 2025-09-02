@@ -4,7 +4,7 @@
 ### Techno-organic Altar
 #### A creepy techno-organic altar, could be used by some kind of cyborg cultists, etc.
 
-### Research Facility
+### Imperial Research Facility
 #### A research facility inside of a volcano. Created to be a Kyber crystal research base for the Sith Empire in one of my Star Wars campaigns. Made with a combination of [Station Architect](https://store.steampowered.com/app/617360/Station_Architect/) and Inkarnate.
 
 ### Smuggler's Cave
@@ -13,7 +13,7 @@
 ### Sewer
 #### A general industrial city sewer battle map.
 
-### Guard Station
+### Sith Guard Station
 #### One floor of a military installation underground, containing a surveillance room, store room, and mess hall.
 
 ### Sith Lab
