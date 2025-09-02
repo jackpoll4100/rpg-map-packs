@@ -1,5 +1,5 @@
-# Maps for the Cairn of the Winter King Adventure
-## Maps I made for running the first chapter of the Cairn of the Winter King DnD adventure (the rest of the adventure takes place in a dungeon with good maps provided). All maps made in Inkarnate.
+# Maps for the Cairn of the Winter King D&D Adventure
+## Maps I made for running the first chapter of the Cairn of the Winter King D&D adventure (the rest of the adventure takes place in a dungeon with good maps provided). All maps made in Inkarnate.
 
 ### Fallcrest Docks
 #### A mostly 1 to 1 redesign of the map shown in chapter 1 for the Fallcrest docks fight. I recreated it in Inkarnate because the book does not provide a "clean" version without GM notes on it.
