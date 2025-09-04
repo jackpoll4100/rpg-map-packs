@@ -19,6 +19,9 @@
 ### Rathalas Cliff Face
 #### Map for the precarious Rathalas walkways in the event that the "Bandit Ambush" is triggered, with an elevated platform on one side for the archers to use.
 
+### Rathalas Maze of Bridges
+#### Map for the possible fight with a pack of axehounds that occurs if the party fails the "Crossing the Maze of Bridges" endeavor.
+
 ## Chapter 4
 
 ### Everstorm Ship Battle
