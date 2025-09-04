@@ -11,6 +11,9 @@
 ### Ryvlk's Menagerie
 #### The Menagerie where the players will fight the escaped whitespines. It's got the colorful chickens, skyeels, axehounds, purelake fish, etc.
 
+### Red Rockbud
+#### Map for the Red Rockbud gambling den. Can be used for setting the scene and also if the players fail the "Playing the Game" endeavor, then it can be the setting for their fight with Lirdan.
+
 ### Outer Market
 #### A section of the outskirts of the Outer Market where the players first encounter and fight the Sons of Honor.
 
